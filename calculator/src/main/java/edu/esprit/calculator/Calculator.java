@@ -11,6 +11,11 @@ public class Calculator {
 			}
 		return result;
 		}
+	public Long multiply (Long a,Long b){
+		
+		return a*b;
+		
+	}
 
 	
 		
